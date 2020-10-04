@@ -220,7 +220,7 @@ img {
     url(../images/hero/hero-img.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  background-size: cover;
+  background-size: 1600px 600px;
 }
 
 .hero .container {
