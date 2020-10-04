@@ -213,9 +213,6 @@ img {
 /*===============HERO================*/
 
 .hero {
-  width: 1600px;
-  height: 600px;
-  margin: auto;
   background-image: linear-gradient(
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
@@ -223,6 +220,7 @@ img {
     url(../images/hero/hero-img.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
+  background-size: 1600px 600px;
 }
 
 .hero .container {
