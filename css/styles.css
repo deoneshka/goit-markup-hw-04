@@ -184,6 +184,10 @@ img {
   color: var(--main-color);
 }
 
+.address-list-svg {
+  fill: var(--main-color);
+}
+
 .navigation-list-link:hover,
 .navigation-list-link:focus,
 .address-list-link:hover,
